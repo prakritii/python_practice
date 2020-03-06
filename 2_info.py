@@ -1,6 +1,3 @@
-#1. Write a program(age__10_years_later.py) that asks a user for his/her name and age
-# and then tells them how old they will be after 10 years.
-
 your_name = input("Enter your name: ")
 your_age = input("Enter your age: ")
 age_years_later = int(your_age) + 10
